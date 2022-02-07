@@ -1,0 +1,23 @@
+@font-face {
+
+    src: url('../Fonts/Axiforma-Medium.otf');
+}
+@font-face {
+
+    src: url('../Fonts/Axiforma-Light.otf');
+}
+@font-face {
+
+    src: url('../Fonts/Gilroy-SemiBold.otf');
+}
+
+.FONT-MEDIUM {
+    -fx-font-family: "Axiforma Medium";
+}
+
+.FONT-LIGHT{
+    -fx-font-family: "Axiforma-Light";
+}
+.input-line{
+    -fx-pref-height:2;
+}
